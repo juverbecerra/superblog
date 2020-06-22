@@ -5,20 +5,23 @@ body{ background-color: aqua;
     margin: 0;
     padding: 0;
 }
-#container
+#cabecera
 {
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid rgb(19, 218, 42);
-    margin: 0 auto;
+    background:#33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: rgb(24, 218, 40);
+    padding: 0.5em;
+    font-weight: bold;
+    margin: 0;
 
 }
-#container h1
+#cabecera #tagline 
 {
-    font-size: 20px;
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
-#container h2
+#container 
 {
-font-size: 20px;
+width: 70%;
 }
