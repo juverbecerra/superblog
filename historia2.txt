@@ -1,5 +1,8 @@
-Esta es la historia de una persona llena de defectos, el que creía en la raza humana
+Voy a hacertle algunos cambios a esta historia y le cambiare todo
 
-Y como clone este repositorio de internet que lo cree yo pero le agrege este parrafo para hacer cambios como si fuera otra persona
+y intentare de nuevo crear otro repositorio
  
-Pero con el paso de el tiempo  su esperanza fue decayendo
+para hacer otro sitio web
+
+este sera el primer commit del segundo repositorio 
+
