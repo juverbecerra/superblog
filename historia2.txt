@@ -6,3 +6,9 @@ para hacer otro sitio web
 
 este sera el primer commit del segundo repositorio 
 
+Este es un cambio que  hago  porque en lo que estube 
+trabajando se me desaparecieron las ramas que ya habia echo
+
+y este es mi repositorio que me traje de github para seguir trabajando
+
+Me acabo de dar cuenta que tengo que dar commit por que me equivoque de historia
